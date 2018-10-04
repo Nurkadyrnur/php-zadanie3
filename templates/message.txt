@@ -1,0 +1,2 @@
+menin atym {{name}} anyn aty {{name}}
+anda {{number}} com bar mende {{number}} com bar {{money}} {{currency}} {{text}} {{date}} {{time}}

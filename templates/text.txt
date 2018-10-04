@@ -1,0 +1,1 @@
+header('Loction: url') = redirect{{name}}
